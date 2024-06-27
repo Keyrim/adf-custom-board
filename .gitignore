@@ -12,6 +12,9 @@
 *.map
 *.exp
 
+build/
+managed_components/
+
 # Precompiled Headers
 *.gch
 *.pch
